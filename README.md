@@ -3,6 +3,7 @@
 Frontend web application for the **ITViec Clone** recruitment platform, built with **React 18**, **TypeScript**, **Vite**, **Redux Toolkit**, and **Ant Design (AntD & ProComponents)**. Includes both the candidate-facing job portal and the Admin/HR management dashboard with dynamic permission-based UI rendering.
 
 - **Live Demo:** [https://itviec-fe-gslm.vercel.app](https://itviec-fe-gslm.vercel.app)
+- **Demo Admin Account:** `admin@gmail.com` | **Password:** `123456`
 - **Backend Repository:** [github.com/doquochuy2106/itviec-Be](https://github.com/doquochuy2106/itviec-Be)
 
 ---
